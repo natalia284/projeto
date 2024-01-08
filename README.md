@@ -1,1 +1,1 @@
-# jogo da alura
+# jogo do número secreto
